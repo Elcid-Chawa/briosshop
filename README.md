@@ -1,6 +1,6 @@
-# Brios SHOP App
+# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is a sample shop app which a clone of Amazon and it is intended to be used and an online store where we can purchase 3D designs.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
