@@ -1,6 +1,6 @@
 # BRIOS SHOP App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is an online shop that would be used in purchace of 3D artifacts. This an Amazon clone.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is an online shop that would be used in purchace of 3D artifacts.
 
 ## Available Scripts
 
